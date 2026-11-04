@@ -1,3 +1,5 @@
+https://c8.alamy.com/comp/2RB9K9M/devops-banner-web-icon-vector-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-2RB9K9M.jpg
+
 # Hi there, I'm Sumit Tayde 👋
 
 ### 🚀 Aspiring DevOps Engineer | AWS Cloud | Kubernetes | Terraform | CI/CD
